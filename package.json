@@ -3,8 +3,9 @@
   "version": "1.1.2",
   "description": "Simple calculator with Typescript, Node.js anr Inquirer",
   "main": "index.js",
-  "type": "module",
   "bin": "index.js",
+  "type": "module",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
